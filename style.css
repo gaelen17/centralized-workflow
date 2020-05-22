@@ -9,3 +9,10 @@ h1{
 	color: red;
 
 }
+#pamplemousse {
+	background-color: lightsalmon;
+	color: navajowhite;
+		font-size: 40px;
+	padding: 30px;
+	margin:20px;
+}
