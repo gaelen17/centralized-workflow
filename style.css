@@ -1,0 +1,35 @@
+body {
+	background-color: powderblue;
+	text-align: center;
+	font-family: verdana;
+}
+
+h1{
+	background-color: powderblue;
+	color: red;
+
+}
+#pamplemousse {
+	background-color: lightsalmon;
+	color: navajowhite;
+		font-size: 40px;
+	padding: 30px;
+	margin:20px;
+	border
+}
+#genoise {
+	background-color: powderblue; 
+	border-style: dotted; 
+	margin-bottom: 5vw; 
+	margin-left: 2vw; 
+	padding-bottom: 2.3vw; 
+	padding-left: 1vw; 
+	padding-right: 1vw; 
+	width: 20vw; 
+	height: 10vw;
+	border-radius: 30vw; 
+	letter-spacing: 1px;
+ 	font-size: 2vw; 
+ 	font-style: serif; 
+ 	text-align: center;"
+} 
